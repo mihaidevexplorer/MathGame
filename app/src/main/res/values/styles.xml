@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.GamePage" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Definează atributele pentru stilul Theme.GamePage -->
+    </style>
+
+    <style name="Theme.ResultPage" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Definează atributele pentru stilul Theme.GamePage -->
+    </style>
+</resources>
