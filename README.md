@@ -13,12 +13,14 @@ Designed and developed the **"Brainy Math Blitz"** application, an interactive a
 - **Quality Assurance**: Conducted rigorous testing of the application to ensure quality and eliminate errors or bugs.
 
 ### Screenshots
-
-[![Image 1](https://i.ibb.co/PwccpWS/finish.jpg)](https://ibb.co/PwccpWS)
-[![Image 2](https://i.ibb.co/vwZqRZZ/finish2.jpg)](https://ibb.co/vwZqRZZ)
-[![Image 3](https://i.ibb.co/8PZw7zy/quiz.jpg)](https://ibb.co/8PZw7zy)
+[![Image 1](https://i.ibb.co/T8SF4C9/start.jpg)](https://ibb.co/T8SF4C9)
+[![Image 2](https://i.ibb.co/8PZw7zy/quiz.jpg)](https://ibb.co/8PZw7zy)
+[![Image 3](https://i.ibb.co/PwccpWS/finish.jpg)](https://ibb.co/PwccpWS)
 [![Image 4](https://i.ibb.co/FwXwjnr/quiz2.jpg)](https://ibb.co/FwXwjnr)
-[![Image 5](https://i.ibb.co/T8SF4C9/start.jpg)](https://ibb.co/T8SF4C9)
+[![Image 5](https://i.ibb.co/vwZqRZZ/finish2.jpg)](https://ibb.co/vwZqRZZ)
+
+
+
 
 
 
